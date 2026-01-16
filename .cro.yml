@@ -1,0 +1,9 @@
+cro: 1
+id: dsci
+name: dsci
+entrypoint: app.raku
+ignore:
+  - .cache
+  - js
+  - .tom
+  - .precomp
