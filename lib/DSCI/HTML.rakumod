@@ -53,6 +53,9 @@ sub navbar () is export {
           <a class="navbar-item" href="{http-root()}/doc/task">
             Tasks
           </a>
+          <a class="navbar-item" href="{http-root()}/doc/envvars">
+            Env Vars
+          </a>
           <a class="navbar-item" href="{http-root()}/doc/forgejo-setup">
             Forgejo
           </a>
