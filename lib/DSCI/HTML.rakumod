@@ -59,14 +59,14 @@ sub navbar () is export {
           <a class="navbar-item" href="{http-root()}/doc/forgejo-setup">
             Forgejo
           </a>
-          <a class="navbar-item" href="https://github.com/melezhik/DSCI">
-            GitHub
-          </a>
           <a class="navbar-item" href="{http-root()}/doc/discord">
             Discord
           </a>
           <a class="navbar-item" href="{http-root()}/doc/demo">
             Demo Server
+          </a>
+         <a class="navbar-item" href="https://github.com/melezhik/DSCI">
+            GitHub
           </a>
         </div>
       </div>
