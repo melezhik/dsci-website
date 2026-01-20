@@ -62,6 +62,9 @@ sub navbar () is export {
           <a class="navbar-item" href="https://github.com/melezhik/DSCI">
             GitHub
           </a>
+          <a class="navbar-item" href="{http-root()}/doc/discord">
+            Discord
+          </a>
         </div>
       </div>
     </nav>
