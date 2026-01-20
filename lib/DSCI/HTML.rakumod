@@ -65,6 +65,9 @@ sub navbar () is export {
           <a class="navbar-item" href="{http-root()}/doc/discord">
             Discord
           </a>
+          <a class="navbar-item" href="{http-root()}/doc/demo">
+            Demo Server
+          </a>
         </div>
       </div>
     </nav>
